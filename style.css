@@ -143,3 +143,15 @@ button:hover {
 button:active {
     transform: scale(0.95);
 }
+.watermark {
+    position: fixed;
+    bottom: 15px;
+    right: 18px;
+    font-size: 14px;
+    color: white;
+    opacity: 0.45;
+    letter-spacing: 1px;
+    font-weight: 500;
+    z-index: 999;
+    pointer-events: none;
+}
