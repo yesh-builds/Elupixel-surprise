@@ -20,6 +20,8 @@ function openSurprise() {
         </div>
 
         <div class="final">
+             All the best...👍
+             <br>
             Elu, go rock it! 🔥📚✨
             <br><br>
             <strong>I FRIEND YOU. ❤️</strong>
